@@ -1,0 +1,4 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.csproj.CoreCompileInputs.cache
