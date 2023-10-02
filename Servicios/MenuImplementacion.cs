@@ -26,7 +26,7 @@ namespace ProyectoPersonal.Servicios
             Console.WriteLine("1.Seleccione el dia que desea coger cita y el tipo de corte:");
             Console.WriteLine("2.Modificar la cita:");
 
-            opcionIntroducida=Console.ReadKey(true).KeyChar - ('0')
+            opcionIntroducida = Console.ReadKey(true).KeyChar - ('0');
 
             return opcionIntroducida;
         }

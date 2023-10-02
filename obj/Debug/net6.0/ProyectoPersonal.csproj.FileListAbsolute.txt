@@ -2,3 +2,13 @@ C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\Pr
 C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.AssemblyInfoInputs.cache
 C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.AssemblyInfo.cs
 C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\bin\Debug\net6.0\ProyectoPersonal.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\bin\Debug\net6.0\ProyectoPersonal.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\bin\Debug\net6.0\ProyectoPersonal.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\bin\Debug\net6.0\ProyectoPersonal.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\bin\Debug\net6.0\ProyectoPersonal.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\refint\ProyectoPersonal.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ProyectoPersonal.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\ProyectoPersonal\obj\Debug\net6.0\ref\ProyectoPersonal.dll

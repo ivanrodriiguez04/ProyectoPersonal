@@ -27,8 +27,8 @@ namespace ProyectoPersonal.Controladores
             {
                 opcionSeleccionada = menuInt.mostrarMenu();
                 switch (opcionSeleccionada) 
-                { 
-                    case 0;
+                {
+                    case 0:
                         cerrarMenu = true;
                         break;
                     case 1:
@@ -36,6 +36,10 @@ namespace ProyectoPersonal.Controladores
                         break;
                     case 2:
                         Console.WriteLine("ha selccionado la opcion 2");
+                        break;
+                    default:
+                        Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna.");
+                        break;
                 }
             }
         }
