@@ -29,7 +29,7 @@ namespace ProyectoPersonal.Controladores
                 switch (opcionSeleccionada) 
                 {
                     case 0:
-                        cerrarMenu = true;
+                        cerrarMenu = true; 
                         break;
                     case 1:
                         Console.WriteLine("Ha seleccionado la opcion 1");
